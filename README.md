@@ -38,6 +38,8 @@ Analyzed datasets using Pandas & Matplotlib
 ### 🗄 SQL Queries Collection
 Advanced SQL practice queries and case studies
 
+## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sumitmauryaa&theme=tokyonight" />
 </p>
