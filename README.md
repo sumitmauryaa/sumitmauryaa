@@ -39,14 +39,6 @@ Analyzed datasets using Pandas & Matplotlib
 Advanced SQL practice queries and case studies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitmauryaa&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitmauryaa&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=sumitmauryaa&theme=tokyonight" />
 </p>
 ## 📫 Connect With Me
