@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi 👋, I'm Sumit Kumar Maurya
 
-<!--
-**sumitmauryaa/sumitmauryaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at MUIT  
+📊 Aspiring Data Analyst  
+💡 Passionate about turning data into insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Matplotlib
+
+---
+
+## 📌 Current Focus
+
+- Data Analysis Projects
+- Dashboard Development
+- SQL Practice
+- Python Automation
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Sales Dashboard
+Power BI dashboard for business insights
+
+### 🐍 Python Data Analysis
+Analyzed datasets using Pandas & Matplotlib
+
+### 🗄 SQL Queries Collection
+Advanced SQL practice queries and case studies
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=sumitmauryaa&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/sumit-maurya-050106sm
+- Email: sumitmaurya05006@gmail.com
