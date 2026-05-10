@@ -38,13 +38,11 @@ Analyzed datasets using Pandas & Matplotlib
 ### 🗄 SQL Queries Collection
 Advanced SQL practice queries and case studies
 
-## 📈 GitHub Stats
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/sumit-maurya-050106sm
+- Email: sumitmaurya05006@gmail.com
 
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sumitmauryaa&theme=tokyonight" />
 </p>
-
-## 📫 Connect With Me
-
-- LinkedIn: www.linkedin.com/in/sumit-maurya-050106sm
-- Email: sumitmaurya05006@gmail.com
