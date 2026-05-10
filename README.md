@@ -42,7 +42,7 @@ Advanced SQL practice queries and case studies
 
 ## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sumitmauryaa&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ---
 
