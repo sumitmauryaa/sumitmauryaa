@@ -43,6 +43,7 @@ Advanced SQL practice queries and case studies
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sumitmauryaa&theme=tokyonight" />
 </p>
+
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/sumit-maurya-050106sm
