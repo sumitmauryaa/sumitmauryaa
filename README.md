@@ -43,6 +43,16 @@ Advanced SQL practice queries and case studies
 - Email: sumitmaurya05006@gmail.com
 
 ## 📈 GitHub Stats
+<h3 align="center">⚡ My GitHub Activity ⚡</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitmauryaa&show_icons=true&theme=tokyonight" alt="Sumit's GitHub Stats" />
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sumitmauryaa&show_icons=true&theme=tokyonight" height="195px" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=sumitmauryaa&theme=tokyonight" height="195px" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </p>
