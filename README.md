@@ -47,7 +47,6 @@ Advanced SQL practice queries and case studies
 - Email: sumitmaurya05006@gmail.com
 
 ## 📈 GitHub Stats
-<h3 align="center">⚡ My GitHub Activity ⚡</h3>
 <p align="center">
   <table align="center">
     <tr>
