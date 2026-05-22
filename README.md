@@ -1,5 +1,9 @@
 # Hi 👋, I'm Sumit Kumar Maurya
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7aa2f7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Python+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
 🎓 BCA Student at MUIT  
 📊 Aspiring Data Analyst  
 💡 Passionate about turning data into insights  
@@ -47,9 +51,6 @@ Advanced SQL practice queries and case studies
 <p align="center">
   <table align="center">
     <tr>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7aa2f7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Python+Developer;Building+ML+%26+Big+Data+Projects;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
       <td>
         <img src="https://streak-stats.demolab.com?user=sumitmauryaa&theme=tokyonight" height="195px" alt="GitHub Streak" />
       </td>
