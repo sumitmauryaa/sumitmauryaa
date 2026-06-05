@@ -47,12 +47,6 @@ Advanced SQL practice queries and case studies
 - Email: sumitmaurya05006@gmail.com
 
 ## 📈 GitHub Stats
-<p align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=sumitmauryaa&theme=tokyonight" height="195px" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=sumitmauryaa&theme=tokyonight" height="195" alt="GitHub Streak" />
+</div>
